@@ -1,0 +1,47 @@
+  /* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+  } */
+     
+ 
+
+ .navbar a {
+     color:black;
+     text-decoration:none;
+
+ }
+ .navbar{
+     display: flex;
+     
+     
+ }
+
+ .navbar li {
+    margin-right: 15px;
+    
+ }
+
+ .navbar ul {
+    list-style-type: none;
+    display: flex;
+    padding-left: 40rem; 
+    font-size: medium;
+    
+
+ }
+
+ .logo {
+     padding-left: 12rem;
+     padding-top: none;
+     padding-left: 15rem;
+
+ }
+ .home {
+     color: green !important;
+ }
+    
+
+
+  

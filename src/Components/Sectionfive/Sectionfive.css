@@ -1,0 +1,92 @@
+.vp{
+    width: 17rem;
+    height: 14rem;
+    margin-right: 3rem;
+    border-radius: 10px;
+    position: relative;
+}
+.vp2{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    bottom: 0;
+}
+
+.harvard{
+    width: 17rem;
+    height: 14rem;
+    margin-right: 3rem;
+    border-radius: 10px;
+    position: relative;
+}
+
+.harvard2{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    font-size: 15px;
+
+}
+.netpreneur{
+    width: 17rem;
+    height: 14rem;
+    border-radius: 10px;
+    position: relative;
+    
+}
+
+.netpreneur2{
+    position: absolute;
+    right: 24rem; 
+    padding-top: 10rem;
+    color: white; 
+    font-size: 15px;
+}
+.pitch{
+    width: 17rem;
+    height: 14rem;
+    margin-right: 3rem;
+    border-radius: 10px;
+    position: relative;
+}
+
+.pitch2{
+    position: absolute;
+    bottom: 0rem;
+    color: white;
+    font-size: 15px;
+
+}
+.wfp{
+     width: 17rem;
+    height: 14rem;
+    border-radius: 10px;
+    position: relative;
+}
+.wfp2{
+    position: absolute;
+    bottom: 0rem;
+    color: white;
+    font-size: 15px;
+}
+
+.fivea{
+    display: flex;
+    padding-bottom: 3rem;
+    padding-left: 10rem;
+    
+    
+}
+.fiveb{
+    display: flex;
+    padding-bottom: 10rem;
+    padding-left:18rem ;
+    
+
+    
+    
+}
+.five{
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
